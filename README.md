@@ -1,3 +1,10 @@
+### Social Dashboard with React and an API
+
+Preview:
+https://react-api-social-dashboard.netlify.app/
+![image](https://repository-images.githubusercontent.com/296680458/97d4f680-f9b3-11ea-9224-611ee71f2529)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
